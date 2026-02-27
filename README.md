@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 MERN Stack Boilerplate
+#  MERN Stack Boilerplate
 
 ### Production-Ready Fullstack Boilerplate
 
@@ -96,8 +96,6 @@ text
 
 ### DevOps
 Docker • Docker Compose • Nginx • Vercel
-
-text
 
 
 ---
@@ -210,7 +208,6 @@ mern-boilerplate/
 ├── vercel.json
 └── vite.config.js
 
-text
 
 
 ---
